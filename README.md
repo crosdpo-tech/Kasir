@@ -153,4 +153,3 @@ Kembalian  : Rp1000
 ```
 
 Petunjuk: isi keranjang harus **disalin** saat disimpan, karena keranjang dikosongkan setelah pembayaran.
- 
